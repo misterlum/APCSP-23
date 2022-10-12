@@ -21,25 +21,25 @@ list1 = [1, 2]
 print("Practice 1")
 print(list1 == [1, 2, 3])
 
-#2) Starting with the given list, make a list equal to [1, 3]
+#2) Starting with the given list, make a list equal to ['A', 'B']
 
 
-list2 = [1, 2, 3]
+list2 = ['A', 'B', 'C']
 
 #IMPLEMENT HERE
 
 print("Practice 2")
-print(list2 == [1, 3])
+print(list2 == ['A', 'B'])
 
-#3) Starting list: [1, 2, 3, 2]
-#   Resulting list: [1, 3]
+#3) Starting list: ['A', 'B', 'C', 'B']
+#   Resulting list: ['A', 'C']
 
-list3 = [1, 2, 3, 2]
+list3 = ['A', 'B', 'C', 'B']
 
 #IMPLEMENT HERE
 
 print("Practice 3")
-print(list3 == [1, 3])
+print(list3 == ['A', 'C'])
 
 #4) Starting list: ["Hello", "Goodbye"]
 #   Resulting list: ["Hello", "What?", "Goodbye"]
