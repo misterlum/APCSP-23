@@ -10,7 +10,7 @@ print("Practice 0")
 print(list0 == [1])
 
 #PRACTICE: 1 through 7
-#For each practice, use append(), insert(), and remove() as necessary to make the
+#For each practice, use append(), insert(), and pop() as necessary to make the
 #starting list match the resulting list.
 #1) Starting with the given list, make a list equal to [1, 2, 3]
 
