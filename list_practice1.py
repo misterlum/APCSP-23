@@ -62,7 +62,7 @@ print("Your printout is")
 
 
 #check your answer below here
-print("The printout should be \n2\n4\n6\n8\n\10\n")
+print("The printout should be \n2\n4\n6\n8\n10\n")
 
 
 
